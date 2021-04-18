@@ -21,7 +21,7 @@ else
     # shell syntax:  "$URLS new_url"
 
     # Emerging Threats lists offensive IPs such as botnet command servers
-    URLS="http://ipblock.multicuba.net/blacklist.html"
+    URLS="http://172.31.79.112/blacklist"
     
 fi
 
